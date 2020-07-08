@@ -23,3 +23,7 @@
     background-color: yellow;
     border: none;
   }
+
+  progress {
+    width: 5%;
+  }
